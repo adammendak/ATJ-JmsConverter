@@ -1,3 +1,5 @@
 .gitignore
 .idea
 ATJ-JMSProducer.iml
+out
+target
